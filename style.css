@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#wrapper{
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+/* Navigation panel styling starts here */
+
+#nav-panel{
+    padding: 0;
+    margin: 0 auto;
+}
+
+/* Section 1 Styling starts form here */
+
+#section1{
+
+}
+
+
+
+/* Section 2 Styling starts from here */
+#section2{
+    /* height: 400px; */
+}
+
+/* Section 3 Styling starts from here */
+#section3{
+    /* height: 500px; */
+    background-color: rgb(225 244 247);
+}
+#section3-div{
+    /* min-height: 380px; */
+    /* background-color: #f2f4f5; */
+}
+
+/* Section 4 Styling starts from here */
+#section4{
+  /* height: 400px;   */
+  
+}
+
+#footer{
+    background-color: rgb(246 249 255);
+}
